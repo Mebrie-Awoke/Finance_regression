@@ -6,9 +6,7 @@
     Loads up/formats a modified version of the dataset
     (why modified?  we've removed some trouble points
     that you'll find yourself in the outliers mini-project).
-
     Draws a little scatterplot of the training/testing data
-
     You fill in the regression code where indicated:
 """    
 
